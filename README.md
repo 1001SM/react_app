@@ -1,8 +1,16 @@
 # react_app
+
 study react
 
 # 参考
-https://logical-studio.com/develop/backend/20211217-docker-react-formatter/
+
+### app 作成
+
+https://web-engineer-wiki.com/javascript/react/vite-react/
+
+### eslint prettier
+
+https://zenn.dev/yamabiko/articles/react-docer-devcontainer
 
 #メモ
-typescriptのバージョンを5.1.6から4.9.5に変更
+typescript のバージョンを 5.1.6 から 4.9.5 に変更
